@@ -1,3 +1,0 @@
-# ejemplo
-
-hola
